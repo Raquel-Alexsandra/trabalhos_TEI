@@ -1,4 +1,5 @@
-#João Francisco Carvalho Soares de Oliveira Queiroga - 20292020135
+#João Francisco Carvalho Soares de Oliveira Queiroga - 20192020135
+#Raquel Alexsandra do Couto - 201811130372
 #A solução implementada consiste em armazenar o mapa em uma matriz e verificar se
 #havia alguma borda ou espaço com água adjacente a cada espaço de terra.  
 def verificaLitoral(x, y) -> bool:
